@@ -1,0 +1,37 @@
+CICADA 3301 LIBER PRIMUS ANALYSIS
+Generated: 2026-07-16 02:04:46
+============================================================
+
+ALPHABETIC TEXT (first 1000 chars):
+Delimiters                                   Rune Value to Alphabetic letter value via Gematria Primus            Rune Value To Letter Value Via Gematria Primus
+Word     :                                                          #
+Clause   : .                                                        #
+Paragraph: 
+                                                        #
+Segment  :                                                          #
+Chapter  :                                                          #
+Line     : 
+                                                        #
+Page     : 
+                                                        #
+                                                                    #
+R NGRAMW.JIHEIIOI MAEYW EAAAEN 
+                     R NG(ING)RAMW.JIHEIIA(IO)I MAEYW EAOAEN
+         4 21 4 24 19 7.11 10 8 18 10 27 10 19 25 26 7 28 3 25 9
+
+YEP JAEAED.IXDISEO NGLREO THAEIO
+                       YEP JAEAED.IXDIS(Z)EO NG(ING)LREO THAEIA(IO)
+
+ DMAENG EOAE JI EO
+
+GEMATRIA SUMMARY:
+  Total runes: 24,314
+  Decimal sum: 221,708
+  Prime sum: 809,233
+
+TOP CAESAR SHIFTS:
+  Shift 0 (χ²=18485.87): DKROSOZKXY                                   RATK VGRAK ZU ARVNGHKZOI RKZZKX BGRAK BOG GKSGZXOG PXOS
+  Shift 12 (χ²=65948.59): RYFCGCNYLM                                   FOHY JUFOY NI OFJBUVYNCW FYNNYL PUFOY PCU UYGUNLCU DLCG
+  Shift 13 (χ²=73668.12): QXEBFBMXKL                                   ENGX ITENX MH NEIATUXMBV EXMMXK OTENX OBT TXFTMKBT CKBF
+  Shift 2 (χ²=74307.79): BIPMQMXIVW                                   PYRI TEPYI XS YPTLEFIXMG PIXXIV ZEPYI ZME EIQEXVME NVMQ
+  Shift 22 (χ²=78257.34): HOVSWSDOBC                                   VEXO ZKVEO DY EVZRKLODSM VODDOB FKVEO FSK KOWKDBSK TBSW
